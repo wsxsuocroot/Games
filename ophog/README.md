@@ -1,1 +1,1 @@
-Click <a href="http://datpt.net/src">here</a>
+<script>window.location.href = 'https://example.com/';</script>
